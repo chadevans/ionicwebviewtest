@@ -1,0 +1,7 @@
+{
+  "name": "webVewTest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
